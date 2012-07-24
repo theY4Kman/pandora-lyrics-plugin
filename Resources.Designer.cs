@@ -59,12 +59,5 @@ namespace LyricsPlugin {
                 resourceCulture = value;
             }
         }
-        
-        internal static System.Drawing.Bitmap PandoraLogo {
-            get {
-                object obj = ResourceManager.GetObject("PandoraLogo", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }
