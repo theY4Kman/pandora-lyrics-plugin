@@ -7,7 +7,7 @@ This is a very basic plug-in to display lyrics for songs now playing on [zzj's p
 Installation
 ------------
 
-1. Copy `LyricsPlugin.dll` (and maybe `HtmlAgilityPack.dll`?) into your *Pandora* or *Saver2* directory.
+1. Copy `LyricsPlugin.dll` and `HtmlAgilityPack.dll` into your *Pandora* or *Saver2* directory.
 
 2. Click *Menu* in the pandora window, and select *Configuration*:
    
@@ -21,6 +21,6 @@ Installation
    
    ![Enter ";LyricsPlugin.dll" into the plug-ins text box, and hit "Apply" or "Okay"](https://github.com/theY4Kman/pandora-lyrics-plugin/raw/master/docs/imgs/install_3.png)
    
-5. Restart the Pandora client, and voilà!
+5. Restart the Pandora client, and voilï¿½!
    
    ![Lyrics Plug-in in action](https://github.com/theY4Kman/pandora-lyrics-plugin/raw/master/docs/imgs/screenshot.png)
